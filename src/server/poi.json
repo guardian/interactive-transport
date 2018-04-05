@@ -1,0 +1,164 @@
+[
+	{
+		"name" : "Waterloo",
+		"category" : "tube",
+		"lng" : -0.11328,
+		"lat" : 51.50322
+	},
+	{
+		"name" : "King's Cross St. Pancras",
+		"category" : "tube",
+		"lng" : -0.12399,
+		"lat" : 51.53057 
+	},
+	{
+		"name" : "Victoria",
+		"category" : "tube",
+		"lng" : -0.14400853,
+		"lat" : 51.49662869 
+	},
+	{
+		"name" : "Oxford Circus",
+		"category" : "tube",
+		"lng" : -0.14119,
+		"lat" : 51.51517
+	},
+	{
+		"name" : "Liverpool Street",
+		"category" : "tube",
+		"lng" : -0.0824580,
+		"lat" : 51.517675
+	},
+	{
+		"name" : "London Bridge",
+		"category" : "tube",
+		"lng" : -0.084826,
+		"lat" : 51.505353
+	},
+	{
+		"name" : "Stratford",
+		"category" : "tube",
+		"lng" : -0.002675,
+		"lat" : 51.541146
+	},
+	{
+		"name" : "Bank",
+		"category" : "tube",
+		"lng" : -0.08905843,
+		"lat" : 51.5134047
+	},
+	{
+		"name" : "Canary Wharf",
+		"category" : "tube",
+		"lng" : -0.01987,
+		"lat" : 51.50362
+	},
+	{
+		"name" : "Paddington",
+		"category" : "tube",
+		"lng" : -0.17553880792,
+		"lat" : 51.5151846554
+	},
+	{
+		"name" : "St Bartholomew's Hospital",
+		"category" : "hospital",
+		"lng" : -0.10007626636,
+		"lat" : 51.5171412648
+	},
+	{
+		"name" : "Royal London Hospital",
+		"category" : "hospital",
+		"lng" : -0.05781,
+		"lat" : 51.51874
+	},
+	{
+		"name" : "Mile End Hospital",
+		"category" : "hospital",
+		"lng" : -0.04315,
+		"lat" : 51.52452
+	},
+	{
+		"name" : "Whipps Cross University Hospital",
+		"category" : "hospital",
+		"lng" : 0.00367,
+		"lat" : 51.57746
+	},
+	{
+		"name" : "Newham University Hospital",
+		"category" : "hospital",
+		"lng" : 0.03079,
+		"lat" : 51.52277
+	},
+	{
+		"name" : "Regent's Park",
+		"category" : "park",
+		"lng" : -0.15361,
+		"lat" : 51.52989
+	},
+	{
+		"name" : "Richmond Park",
+		"category" : "park",
+		"lng" : -0.26713,
+		"lat" : 51.44100
+	},
+	{
+		"name" : "Hyde Park",
+		"category" : "park",
+		"lng" : -0.16169,
+		"lat" : 51.50645
+	},
+	{
+		"name" : "Greenwich Park",
+		"category" : "park",
+		"lng" : 0.00042,
+		"lat" : 51.47743
+	},
+	{
+		"name" : "Bushy Park",
+		"category" : "park",
+		"lng" : -0.33708,
+		"lat" : 51.41092
+	},
+	{
+		"name" : "Wembley Stadium",
+		"category" : "leisure",
+		"lng" : -0.274498902,
+		"lat": 51.553497786
+	},
+	{
+		"name" : "O2 Arena",
+		"category" : "leisure",
+		"lng" : 0.00187999248,
+		"lat" : 51.5017963261
+	},
+	{
+		"name" : "Alexandra Palace",
+		"category" : "leisure",
+		"lng" : -0.12976,
+		"lat" : 51.59465
+	},
+	{
+		"name" : "Alexandra Palace",
+		"category" : "leisure",
+		"lng" : -0.12976,
+		"lat" : 51.59465
+	},
+	{
+		"name" : "Royal Albert Hall",
+		"category" : "leisure",
+		"lng" : -0.176991,
+		"lat" : 51.500648
+	},
+	{
+		"name" : "Royal Albert Hall",
+		"category" : "leisure",
+		"lng" : -0.176991,
+		"lat" : 51.500648
+	},
+	{
+		"name" : "Hammersmith Apollo",
+		"category" : "leisure",
+		"lng" : -0.223560,
+		"lat" : 51.490670
+	}
+]
