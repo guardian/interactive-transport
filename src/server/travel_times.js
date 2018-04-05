@@ -5,11 +5,14 @@ import fetch from 'node-fetch'
 const key = 'd2cd12698d81eba64d0029c681c024c0'
 const key2 = '55c07de5f5891f58ebe34dacb5ca6f92'
 
+const tflKey = 'c4864735bceb71c69a941e2efb5d44ce'
+const tflId = 'a5461e28'
+
 const geo = JSON.parse(fs.readFileSync('./src/server/centroids.json'))
 
 const poi = JSON.parse(fs.readFileSync('./src/server/poi.json'))
 
-const slowFetch = throttle(fetch, 1, 1*1000)
+const slowFetch = throttle(fetch, 1, 10*1000)
 
 const whiteSample = JSON.parse(fs.readFileSync('./src/white_sample.json'))
 const bameSample = JSON.parse(fs.readFileSync('./src/bame_sample.json'))
@@ -113,12 +116,18 @@ centroids.slice().sort(() => Math.random() - 0.5).forEach(c => {
 
 		//const url = `https://developer.citymapper.com/api/1/traveltime/?time_type=arrival&time=${time}&startcoord=${a}&endcoord=${b}&key=${key}`
 
-		const url = `https://api.tfl.gov.uk/journey/journeyresults/${a}/to/${b}?date=${20180410}&time=0800`
+		const url = `https://api.tfl.gov.uk/journey/journeyresults/${a}/to/${b}?date=${20180410}&time=0800&app_id=${tflId}&app_key=${tflKey}`
 
 		//console.log(url)
 
-		slowFetch(url).then( resp => resp.json() )
-			.then(obj => {
+		slowFetch(url).then( resp => {
+				return resp.text()
+			})
+			.then(text => {
+
+				console.log(text.slice(0, 20) + '...')
+
+				const obj = JSON.parse(text)
 
 				i++
 

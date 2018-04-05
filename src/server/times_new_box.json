@@ -1,0 +1,586 @@
+[
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "King's Cross St. Pancras",
+      "category": "tube",
+      "lng": -0.12399,
+      "lat": 51.53057
+    },
+    "times": [
+      43,
+      46,
+      40
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Waterloo",
+      "category": "tube",
+      "lng": -0.11328,
+      "lat": 51.50322
+    },
+    "times": [
+      47,
+      46,
+      50
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Victoria",
+      "category": "tube",
+      "lng": -0.14400853,
+      "lat": 51.49662869
+    },
+    "times": [
+      52,
+      53,
+      54
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Liverpool Street",
+      "category": "tube",
+      "lng": -0.082458,
+      "lat": 51.517675
+    },
+    "times": [
+      31,
+      32,
+      33
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Stratford",
+      "category": "tube",
+      "lng": -0.002675,
+      "lat": 51.541146
+    },
+    "times": [
+      23,
+      24,
+      23,
+      37
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "London Bridge",
+      "category": "tube",
+      "lng": -0.084826,
+      "lat": 51.505353
+    },
+    "times": [
+      44,
+      42,
+      46
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Bank",
+      "category": "tube",
+      "lng": -0.08905843,
+      "lat": 51.5134047
+    },
+    "times": [
+      36,
+      37,
+      38
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Canary Wharf",
+      "category": "tube",
+      "lng": -0.01987,
+      "lat": 51.50362
+    },
+    "times": [
+      35,
+      34,
+      37,
+      105
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "St Bartholomew's Hospital",
+      "category": "hospital",
+      "lng": -0.10007626636,
+      "lat": 51.5171412648
+    },
+    "times": [
+      42,
+      43,
+      44
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Paddington",
+      "category": "tube",
+      "lng": -0.17553880792,
+      "lat": 51.5151846554
+    },
+    "times": [
+      55,
+      56,
+      57
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Newham University Hospital",
+      "category": "hospital",
+      "lng": 0.03079,
+      "lat": 51.52277
+    },
+    "times": [
+      38,
+      34,
+      38,
+      44
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Whipps Cross University Hospital",
+      "category": "hospital",
+      "lng": 0.00367,
+      "lat": 51.57746
+    },
+    "times": [
+      46,
+      47,
+      46,
+      71
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Regent's Park",
+      "category": "park",
+      "lng": -0.15361,
+      "lat": 51.52989
+    },
+    "times": [
+      66,
+      67,
+      64
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Greenwich Park",
+      "category": "park",
+      "lng": 0.00042,
+      "lat": 51.47743
+    },
+    "times": [
+      59,
+      59,
+      59
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Hyde Park",
+      "category": "park",
+      "lng": -0.16169,
+      "lat": 51.50645
+    },
+    "times": [
+      61,
+      62,
+      63
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Richmond Park",
+      "category": "park",
+      "lng": -0.26713,
+      "lat": 51.441
+    },
+    "times": [
+      105,
+      112,
+      106
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Wembley Stadium",
+      "category": "leisure",
+      "lng": -0.274498902,
+      "lat": 51.553497786
+    },
+    "times": [
+      92,
+      99,
+      92
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Alexandra Palace",
+      "category": "leisure",
+      "lng": -0.12976,
+      "lat": 51.59465
+    },
+    "times": [
+      65,
+      66,
+      72
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Alexandra Palace",
+      "category": "leisure",
+      "lng": -0.12976,
+      "lat": 51.59465
+    },
+    "times": [
+      65,
+      66,
+      72
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Hammersmith Apollo",
+      "category": "leisure",
+      "lng": -0.22356,
+      "lat": 51.49067
+    },
+    "times": [
+      69,
+      68,
+      71
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Waterloo",
+      "category": "tube",
+      "lng": -0.11328,
+      "lat": 51.50322
+    },
+    "times": [
+      41,
+      41,
+      41
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Royal Albert Hall",
+      "category": "leisure",
+      "lng": -0.176991,
+      "lat": 51.500648
+    },
+    "times": [
+      67,
+      68,
+      69
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Royal Albert Hall",
+      "category": "leisure",
+      "lng": -0.176991,
+      "lat": 51.500648
+    },
+    "times": [
+      67,
+      68,
+      69
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "King's Cross St. Pancras",
+      "category": "tube",
+      "lng": -0.12399,
+      "lat": 51.53057
+    },
+    "times": [
+      43,
+      40,
+      43
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Oxford Circus",
+      "category": "tube",
+      "lng": -0.14119,
+      "lat": 51.51517
+    },
+    "times": [
+      43,
+      42,
+      42
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Victoria",
+      "category": "tube",
+      "lng": -0.14400853,
+      "lat": 51.49662869
+    },
+    "times": [
+      45,
+      47,
+      46
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Stratford",
+      "category": "tube",
+      "lng": -0.002675,
+      "lat": 51.541146
+    },
+    "times": [
+      25,
+      25,
+      25,
+      36
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Canary Wharf",
+      "category": "tube",
+      "lng": -0.01987,
+      "lat": 51.50362
+    },
+    "times": [
+      24,
+      24,
+      24,
+      50
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Bank",
+      "category": "tube",
+      "lng": -0.08905843,
+      "lat": 51.5134047
+    },
+    "times": [
+      30,
+      30,
+      30,
+      88
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Paddington",
+      "category": "tube",
+      "lng": -0.17553880792,
+      "lat": 51.5151846554
+    },
+    "times": [
+      50,
+      49,
+      49
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "St Bartholomew's Hospital",
+      "category": "hospital",
+      "lng": -0.10007626636,
+      "lat": 51.5171412648
+    },
+    "times": [
+      36,
+      36,
+      36,
+      103
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Royal London Hospital",
+      "category": "hospital",
+      "lng": -0.05781,
+      "lat": 51.51874
+    },
+    "times": [
+      27,
+      27,
+      27,
+      55
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Mile End Hospital",
+      "category": "hospital",
+      "lng": -0.04315,
+      "lat": 51.52452
+    },
+    "times": [
+      27,
+      28,
+      28,
+      40
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Oxford Circus",
+      "category": "tube",
+      "lng": -0.14119,
+      "lat": 51.51517
+    },
+    "times": [
+      48,
+      49,
+      50
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000721",
+    "poi": {
+      "name": "Mile End Hospital",
+      "category": "hospital",
+      "lng": -0.04315,
+      "lat": 51.52452
+    },
+    "times": [
+      37,
+      36,
+      40,
+      90
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "London Bridge",
+      "category": "tube",
+      "lng": -0.084826,
+      "lat": 51.505353
+    },
+    "times": [
+      37,
+      39,
+      37,
+      97
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Whipps Cross University Hospital",
+      "category": "hospital",
+      "lng": 0.00367,
+      "lat": 51.57746
+    },
+    "times": [
+      48,
+      49,
+      49,
+      109
+    ],
+    "group": "bame"
+  },
+  {
+    "code": "E02000871",
+    "poi": {
+      "name": "Newham University Hospital",
+      "category": "hospital",
+      "lng": 0.03079,
+      "lat": 51.52277
+    },
+    "times": [
+      33,
+      34,
+      34,
+      60
+    ],
+    "group": "bame"
+  }
+]
